@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>projekt</groupId>
+  <artifactId>K_Cichosz_K5C2S1</artifactId>
+  <version>1</version>
+  <packaging>pom</packaging>
+  <name>K_Cichosz_K5C2S1</name>
+  <modules>
+    <module>K_Cichosz_K5C2S1-ear</module>
+    <module>K_Cichosz_K5C2S1-web</module>
+    <module>K_Cichosz_K5C2S1-ejb</module>
+    <module>K_Cichosz_K5C2S1-lib</module>
+  </modules>
+    <dependencies>
+        
+        <!-- Jersey 2.19 -->
+    <dependency>
+      <groupId>org.glassfish.jersey.containers</groupId>
+      <artifactId>jersey-container-servlet</artifactId>
+      <version>2.19</version>
+      <scope>provided</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.glassfish.jersey.core</groupId>
+      <artifactId>jersey-server</artifactId>
+      <version>2.19</version>
+      <scope>provided</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.glassfish.jersey.core</groupId>
+      <artifactId>jersey-client</artifactId>
+      <version>2.19</version>
+      <scope>provided</scope>
+    </dependency>
+    <!-- https://mvnrepository.com/artifact/org.glassfish.jersey.media/jersey-media-multipart -->
+    <dependency>
+      <groupId>org.glassfish.jersey.media</groupId>
+      <artifactId>jersey-media-multipart</artifactId>
+      <version>2.19</version>
+        <scope>provided</scope>
+    </dependency>
+
+        
+        
+        
+        
+    </dependencies>
+</project>

@@ -1,0 +1,14 @@
+Thu Feb 01 06:44:38 CET 2018 : Serwer sieciowy Apache Derby - 10.14.1.0 - (1808820) uruchomiony i gotowy do zaakceptowania po³¹czeñ na porcie 1527 w {3} 
+----------------------------------------------------------------
+Thu Feb 01 06:44:51 CET 2018:
+ Uruchamianie wersji The Apache Software Foundation - Apache Derby - 10.14.1.0 - (1808820) systemu Derby: instancja a816c00e-0161-4fe5-3973-00003b78eb13
+w katalogu bazy danych C:\Users\Kahol\Documents\NetBeansProjects\K_Cichosz_K5C2S1\db-derby-10.14.1.0-bin\bin\db sun.misc.Launcher$AppClassLoader@610455d6 
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_151-b12
+user.dir=C:\Users\Kahol\Documents\NetBeansProjects\K_Cichosz_K5C2S1\db-derby-10.14.1.0-bin\bin
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\Kahol\Documents\NetBeansProjects\K_Cichosz_K5C2S1\db-derby-10.14.1.0-bin\bin
+Uruchomiono program ³aduj¹cy klasê bazy danych - derby.database.classpath=''
